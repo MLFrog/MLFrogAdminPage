@@ -1,5 +1,6 @@
-# mlfrogadmin
+# MLFrog Backend Admin Page
 
+## Vue Setting
 ## Project setup
 ```
 yarn install
@@ -20,5 +21,4 @@ yarn build
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+
